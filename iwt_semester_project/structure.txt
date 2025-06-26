@@ -1,0 +1,46 @@
+Folder PATH listing
+Volume serial number is D484-6F06
+F:.
+¦   index.php
+¦   login.php
+¦   logout.php
+¦   structure.txt
+¦   
++---.vscode
+¦       settings.json
+¦       
++---admin
+¦       admin_dashboard.php
+¦       admin_login.php
+¦       admin_logout.php
+¦       admin_page.php
+¦       delete_complaint.php
+¦       update_complaint.php
+¦       update_status.php
+¦       
++---assets
+¦   +---css
+¦   ¦       project.css
+¦   ¦       
+¦   +---img
+¦           FUSST_Logo.jpg
+¦           
++---includes
+¦       db_connection.php
+¦       navbar.php
+¦       
++---uploads
+¦       1747427553_FURCLogiiiiicopy2.png
+¦       1747440288_FURCLogiiiiicopy2.png
+¦       1748346105_BSET-046-TW-Assignment3.pdf
+¦       1748346232_BSET-046-TW-Assignment3.pdf
+¦       1748346297_BSET-046-TW-Assignment3.pdf
+¦       1748415150_BSET-046-TW-Assignment3.pdf
+¦       1748467543_Noorani-Qaida-in-English-e-Book-thequranclasses.online-2 (1).pdf
+¦       
++---user
+        check_status.php
+        complaint_form.php
+        status.php
+        submit_complaint.php
+        
