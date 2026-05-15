@@ -1,2 +1,2 @@
-# projects
+# WEB TECHNOLOGIES
 web technolgies project
